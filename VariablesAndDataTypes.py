@@ -1,0 +1,1 @@
+print("These are the variable in python")
