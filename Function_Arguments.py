@@ -60,3 +60,4 @@ def square_calc(*nums):
 result = square_calc(2, 6, 9, 10, 12)
 for number in result:
     print(number)
+    
