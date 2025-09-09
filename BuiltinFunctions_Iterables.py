@@ -1,5 +1,5 @@
 # # len() - length
-print("-------len() ---------")
+print("-------len()---------")
 print(len([4, 5, 1, 3]))
 
 # sorted() - Sorting
@@ -17,3 +17,16 @@ print(list(reversed(nums2)))
 
 name1 = "Pritam"
 print(list(reversed(name1)))
+
+#enumerate(iterable) – Index + Value
+print("--------enumerate(iterable)---------")
+fruits1 = ["apple","pineapple","mango","banana","pear"]
+for index, fruit in enumerate(fruits1):
+    print(f"Index is {index} and Value is {fruit}")
+    
+#range() - Range of numbers
+for i in range(1, 10, 2):
+    print(i)
+
+for i in range(1, 6):
+    print(i)
