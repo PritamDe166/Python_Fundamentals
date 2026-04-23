@@ -1,0 +1,82 @@
+# ----------------------------
+
+# Python
+
+# ----------------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+
+*.log
+
+# Unit test / coverage
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# ----------------------------
+
+# macOS
+
+# ----------------------------
+
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ----------------------------
+
+# PyCharm / IntelliJ
+
+# ----------------------------
+
+.idea/
+*.iml
+
+# ----------------------------
+
+# VS Code (if you ever use it)
+
+# ----------------------------
+
+.vscode/
+
+# ----------------------------
+
+# Environment variables
+
+# ----------------------------
+
+.env
+
+# ----------------------------
+
+# Misc
+
+# ----------------------------
+
+*.sqlite3
