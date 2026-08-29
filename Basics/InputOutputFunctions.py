@@ -1,11 +1,3 @@
-#Print()
-print("-------print()-------")
-print("This is a normal print") # Basic Print
-print("Python","is","fun")      # Multiple values
-print("apple","mango","banana", sep=", ")  # Using Separators
-print(1,2,3, end=" ")
-print(4,5,6)
-
 #input()
 print("--------input()-------")
 name = input("Enter Name: ")
