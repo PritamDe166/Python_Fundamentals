@@ -1,0 +1,19 @@
+{
+  "theme": "dark",
+  "font_size": 14,
+  "auto_save": true,
+  "max_retries": 3,
+  "recent_files": [
+    "notes.txt",
+    "grades.csv",
+    "main.py"
+  ],
+  "user": {
+    "name": "Pritam",
+    "role": "beginner",
+    "preferences": {
+      "notifications": true,
+      "language": "en"
+    }
+  }
+}
